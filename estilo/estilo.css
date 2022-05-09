@@ -1,0 +1,9 @@
+selector{
+    propiedad: valor;
+}
+
+/*selector universal*/
+
+*{
+    color: red;
+}
